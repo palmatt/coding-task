@@ -8,3 +8,4 @@ INSERT INTO TRANSACTION (transaction_id, transaction_date, transaction_amount, c
 INSERT INTO TRANSACTION (transaction_id, transaction_date, transaction_amount, customer_id) VALUES (4, '2023-06-25', 150, 1)
 INSERT INTO TRANSACTION (transaction_id, transaction_date, transaction_amount, customer_id) VALUES (5, '2024-03-25', 10, 2)
 INSERT INTO TRANSACTION (transaction_id, transaction_date, transaction_amount, customer_id) VALUES (6, '2024-03-25', 60, 2)
+INSERT INTO TRANSACTION (transaction_id, transaction_date, transaction_amount, customer_id) VALUES (7, '2024-03-25', 49, 3)
